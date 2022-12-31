@@ -18,8 +18,8 @@ My roles in this project were as follows
 
 
 # Screenshots
-<img src="https://github.com/Kendi42/Athlete-Web-App/blob/e7f0dd524a59c03d5753cfea397834d5544c5156/home.png" width="1280" height="720"/>
-<img src="https://github.com/Kendi42/Athlete-Web-App/blob/39da6230fd5dc72683e6f62942d4c0ef43fb1bd2/enter%20records.png" width="1280" height="720"/>
-<img src="https://github.com/Kendi42/Athlete-Web-App/blob/e7f0dd524a59c03d5753cfea397834d5544c5156/100m%20races.png" width="1280" height="720"/>
-<img src="https://github.com/Kendi42/Athlete-Web-App/blob/39da6230fd5dc72683e6f62942d4c0ef43fb1bd2/200m%20races.png" width="1280" height="720"/>
-<img src="https://github.com/Kendi42/Athlete-Web-App/blob/39da6230fd5dc72683e6f62942d4c0ef43fb1bd2/footer.png" width="1280" height="200"/>
+<img src="https://github.com/Kendi42/Sudi-Farm-Website/blob/3363857c083ff419361ce27a308629e9fab4aabc/landing.png" width="1280" height="650"/>
+<img src="https://github.com/Kendi42/Sudi-Farm-Website/blob/3363857c083ff419361ce27a308629e9fab4aabc/about1.png" width="1280" height="650"/>
+<img src="https://github.com/Kendi42/Sudi-Farm-Website/blob/3363857c083ff419361ce27a308629e9fab4aabc/team.png" width="1280" height="650"/>
+<https://github.com/Kendi42/Sudi-Farm-Website/blob/3363857c083ff419361ce27a308629e9fab4aabc/services.png" width="1280" height="650"/>
+<img src="https://github.com/Kendi42/Sudi-Farm-Website/blob/3363857c083ff419361ce27a308629e9fab4aabc/services.png" width="1280" height="650"/>
