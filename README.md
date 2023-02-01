@@ -1,7 +1,7 @@
 # Sudi-Farm-Website
 This is an informative website for Sudi Farms to allow their current customers to easily engage with the farming company online, while also perfectly marketing the company to new prospective clients by providing easily accessible information about them.. 
 
-## Colaborators
+## Collaborators
 This is a group project done in collaboration with 
 - [Daniel Theuri](https://github.com/dantheuri17)
 - [Viviane Rugwiro](https://www.linkedin.com/in/viviane-benny-rugwiro-063561151/)
